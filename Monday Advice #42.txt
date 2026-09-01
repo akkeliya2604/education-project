@@ -35,6 +35,7 @@ Instead of comparing every feature of every tool, use this rule:
 3. Keep a maximum of three.
 4. Compare them using one deciding criterion.
 5. Set a deadline and choose.
+6. The sixth pointless point.
 
 You’re not trying to discover the perfect option.
 
